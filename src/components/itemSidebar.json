@@ -1,0 +1,6 @@
+[
+    {"name": "tables", "path": "/tables", "icon": "tab-side-ico", "active": "selected"},
+    {"name": "components", "path": "/components", "icon": "com-side-ico", "active": ""},
+    {"name": "development", "path": "/development", "icon": "cod-side-ico", "active": ""},
+    {"name": "contacts", "path": "/contacts", "icon": "gmail-side-ico", "active": ""}
+]
